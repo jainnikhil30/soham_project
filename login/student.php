@@ -1,6 +1,6 @@
 <?php
 $username = "sql6411807";
-$password = "kyRVg9HSXx";
+$password = "password";
 $database = "sql6411807";
 $mysqli = new mysqli("sql6.freemysqlhosting.net", $username, $password, $database);
 
